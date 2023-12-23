@@ -1,5 +1,5 @@
 # K8s-Mario-Game
-this is Mario Game Deployment on K8s using terraform, kubectl, EKS, Load Balancer, etc. 
+This is Mario Game Deployment on K8s using terraform, kubectl, EKS, Load Balancer, etc. 
 
 K8S Mario Game on web page
 
